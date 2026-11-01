@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (raw downloads are not committed; data/processed/ is)
+data/raw/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
